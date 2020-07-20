@@ -10,8 +10,7 @@ def main():
     prompt.cmdloop()
 
 
-def startup():
-    # DO NOT TOUCH THIS, THE ESCAPE CHARACTERS ARE FINE
+def startup():    # DO NOT TOUCH THIS, THE ESCAPE CHARACTERS ARE FINE
     # DO NOT TOUCH THIS, THE ESCAPE CHARACTERS ARE FINE
     # DO NOT TOUCH THIS, THE ESCAPE CHARACTERS ARE FINE
     print('''
@@ -22,7 +21,7 @@ def startup():
               (()                $$ |   $$ |$$$$$$ $$$$  |/$$$$$$  |                   
               (()                $$ |   $$ |$$ | $$ | $$ |$$    $$ |                   
               .+.                $$ |   $$ |$$ | $$ | $$ |$$$$$$$$/                    
-          _.-//_\\-._             $$ |   $$ |$$ | $$ | $$ |$$       |                   
+          _.-//_\\-._            $$ |   $$ |$$ | $$ | $$ |$$       |                   
         .'.-' XII '-.'.          $$/    $$/ $$/  $$/  $$/  $$$$$$$/                    
       /`.'*         *'.`\\        __       __  __                  __                       
      / /*        /    *\ \\      /  |  _  /  |/  |                /  |                     
@@ -33,7 +32,7 @@ def startup():
       \ '.*       \ *.'./       $$$$/  $$$$ |$$ |$$ |  $$ |$$ \__$$ |$$$$$$$$/ $$ |      
        '._'-.__VI_.-'_.'        $$$/    $$$ |$$ |$$ |  $$ |$$    $$ |$$       |$$ |      
           '-.,___,.-'           $$/      $$/ $$/ $$/   $$/  $$$$$$$/  $$$$$$$/ $$/       
-                               
+
 ''')
     # DO NOT TOUCH THIS, THE ESCAPE CHARACTERS ARE FINE
     # DO NOT TOUCH THIS, THE ESCAPE CHARACTERS ARE FINE
